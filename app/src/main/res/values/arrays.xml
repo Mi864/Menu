@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="idiomas">
+        <item>English</item>
+        <item>Español</item>
+    </string-array>
+
+    <string-array name="idiomasPreferences">
+        <item>ingles</item>
+        <item>español</item>
+    </string-array>
+
+</resources>

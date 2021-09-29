@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Options Menu</string>
+    <string name="proveedores">Proveedores</string>
+    <string name="clientes">Clientes</string>
+    <string name="stock">Stock</string>
+    <string name="proyecciones">Proyecciones</string>
+    <string name="mes">Mes %1$d</string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="contacto">Contacto</string>
+    <string name="ajustes">Ajustes</string>
+    <string name="modo_oscuro">Modo Oscuro</string>
+    <string name="idiomas">Idiomas</string>
+    <string name="enviar_correo">Enviar correo</string>
+</resources>

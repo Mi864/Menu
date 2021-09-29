@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Options Menu</string>
+    <string name="proveedores">Providers</string>
+    <string name="clientes">Customers</string>
+    <string name="stock">Stock</string>
+    <string name="proyecciones">Projections</string>
+    <string name="mes">Month %1$d</string>
+    <string name="acerca_de">About it</string>
+    <string name="contacto">Contact us</string>
+    <string name="ajustes">Settings</string>
+    <string name="modo_oscuro">Dark Mode</string>
+    <string name="idiomas">Languages</string>
+    <string name="enviar_correo">Send e-mail</string>
+
+</resources>
